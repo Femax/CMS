@@ -1,0 +1,23 @@
+.panel-body{
+text-align: center;
+}
+.input-group{
+    width:70%;
+
+}
+.wrapper{
+    text-align:center
+width:100%;
+}
+.content{
+    margin:0 auto;
+width:60%;
+height: 60%;
+}
+.input-group {
+margin:0 auto;
+    
+}
+* {
+font-family: 'Lora', serif;
+}
